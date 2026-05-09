@@ -2,6 +2,9 @@
 cs336-spring2024-assignment-2-submission.zip
 test_results.xml
 
+# Stray memory snapshots written to repo root (canonical copies live under results/)
+/mem_*.pickle
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
